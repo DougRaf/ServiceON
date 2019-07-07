@@ -217,7 +217,7 @@
   <h4 class="alert-heading">A rede social do prestador de serviços!</h4>
   <p>Aqui voçê encontra a primeira rede social dos prestadores de serviços lugar para fazer amizades e contratar serviços...bem simples e façil!!!</p>
   <hr>
-  <p class="mb-0">Muito façil e simples de usar começe agora mesmo sua rede!!! testando 123</p>
+  <p class="mb-0">Muito façil e simples de usar começe agora mesmo sua rede!!! Douglas D+</p>
   <br>
     <button type="button" class="btn btn-outline-primary btn-lg btn-block ">Conheça mais</button>
    </div>
