@@ -1,0 +1,6 @@
+/Users/douglasesquinelato/Projects/ServiceON-New/ServiceON-New/obj/Debug/ServiceON-New.csprojAssemblyReference.cache
+/Users/douglasesquinelato/Projects/ServiceON-New/ServiceON-New/obj/Debug/ServiceON-New.csproj.CoreCompileInputs.cache
+/Users/douglasesquinelato/Projects/ServiceON-New/ServiceON-New/bin/ServiceON-New.dll
+/Users/douglasesquinelato/Projects/ServiceON-New/ServiceON-New/bin/ServiceON-New.pdb
+/Users/douglasesquinelato/Projects/ServiceON-New/ServiceON-New/obj/Debug/ServiceON-New.dll
+/Users/douglasesquinelato/Projects/ServiceON-New/ServiceON-New/obj/Debug/ServiceON-New.pdb

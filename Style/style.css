@@ -1,0 +1,125 @@
+﻿.desktop-view {
+    display: none;
+}
+
+#mobile-logo {
+    position: absolute;
+    top: 65px;
+    left z-index: 1;
+    width: 250px;
+    display: inline;
+}
+
+.imagem-logo {
+    display: none;
+}
+
+.form-mobile {
+    display: inline;
+    margin-bottom: 200px;
+    position: relative;
+    top: 160px;
+}
+
+.alert-carrosell {
+    position: absolute;
+    width: 500px;
+    bottom: 220px;
+    left: 405px;
+}
+
+.modal-contente {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 170%;
+    pointer-events: auto;
+    background-color: #ffffffab;
+    background-clip: padding-box;
+    border: 1px solid rgb(255, 193, 7);
+    border-radius: .3rem;
+    outline: 0;
+    right: 200px;
+}
+
+.modal-headerr {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 1rem 1rem;
+    border-bottom: 1px solid #dee2e6;
+    border-top-left-radius: .3rem;
+    border-top-right-radius: .3rem;
+    background-color: #ffc107;
+}
+
+.btn-mobile {
+    position: relative;
+    margin-bottom: 40px;
+    top: 15px;
+}
+
+.carrosel-topo {
+    display: none;
+}
+
+@media (min-width: 1200px) {
+
+    #mobile-logo {
+        display: none;
+    }
+
+    .carrocel-mobile {
+        display: none;
+    }
+
+    .carrosel-topo {
+        display: inline;
+    }
+
+    .desktop-view {
+        display: inline;
+    }
+
+    .imagem-logo {
+        position: absolute;
+        top: 5px;
+        left: 110px;
+        z-index: 1;
+        width: 250px;
+        display: inline;
+    }
+
+    .alert-successs {
+        color: #030000;
+        background-color: #ffffffa6;
+        border-color: #040504;
+    }
+
+    .alert-carrosel {
+        position: absolute;
+        width: 500px;
+        bottom: 220px;
+        left: -55px;
+    }
+
+
+    .modal-titulo {
+        color: white;
+    }
+
+    .modal-img {
+        position: relative;
+        width: 150px;
+        left: 150px;
+    }
+
+    .form-mobile {
+        display: none;
+    }
+}
