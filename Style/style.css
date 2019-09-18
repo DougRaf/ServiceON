@@ -4,8 +4,8 @@
 
 #mobile-logo {
     position: absolute;
-    top: 65px;
-    left z-index: 1;
+    top: 120px;
+    left: 60px;
     width: 250px;
     display: inline;
 }
@@ -18,7 +18,8 @@
     display: inline;
     margin-bottom: 200px;
     position: relative;
-    top: 160px;
+    top: 230px;
+    height:300px;
 }
 
 .alert-carrosell {
